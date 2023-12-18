@@ -7,7 +7,7 @@ The PI Pico has an RP2040 processor and can get to up to 6mW as minimal power co
 
 There are three ways:
 1) Standard sleep (85.8mW) - The standard RP2040 processor on the raspberry Pi has a sleep_ms function, but all it does is a noop.. So its not saving much power.
-2) Deepsleep (32mW) - But the RaspberyPi in GitHub has as C library called pico-extras which exports a sleep interface (https://github.com/raspberrypi/pico-extras). It has a function 'sleep_goto_sleep_intil()' which uses the deepsleep interface of the processor and significantly reduces the power consumption.   
+2) Deepsleep (32mW) - But the RaspberyPi in GitHub has an (experimental) C library called pico-extras which exports a sleep interface (https://github.com/raspberrypi/pico-extras). It has a function 'sleep_goto_sleep_intil()' which uses the deepsleep interface of the processor and significantly reduces the power consumption.   
 3) Dormant mode (6.6mW) - The RP2040 goes dormant until rising clock edge. It basically turns off all external subsystems and depends solely on a clocksource that is stopped. (example code: RP2040_dormant_mode.c)   
  
 References:
