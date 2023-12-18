@@ -6,4 +6,5 @@ This code is my experiment/mini project that i work on to create a device that w
 
  
 References:
-https://www.reddit.com/r/raspberrypipico/comments/10ynbz1/power_reduction_on_pico_w_how_to_do/?share_id=A1Owp69ZcpokUhD0NwcIL&utm_content=1&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=4
+1) Reddit discussion - https://www.reddit.com/r/raspberrypipico/comments/10ynbz1/power_reduction_on_pico_w_how_to_do/?share_id=A1Owp69ZcpokUhD0NwcIL&utm_content=1&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=4
+2) Youtube video Deepsleep example - https://www.youtube.com/watch?v=05o5QOZkpwg&list=PLNR62dPSpLdvRIKLcb4CTNqBkMeQ5iDyf&index=1
