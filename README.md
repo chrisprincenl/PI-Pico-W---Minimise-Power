@@ -13,3 +13,5 @@ There are three ways:
 References:
 1) Reddit discussion - https://www.reddit.com/r/raspberrypipico/comments/10ynbz1/power_reduction_on_pico_w_how_to_do/?share_id=A1Owp69ZcpokUhD0NwcIL&utm_content=1&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=4
 2) Youtube video Deep sleep example - https://www.youtube.com/watch?v=05o5QOZkpwg&list=PLNR62dPSpLdvRIKLcb4CTNqBkMeQ5iDyf&index=1
+3) External clock - ttps://github.com/PiSupply/PiJuice/issues/472
+
