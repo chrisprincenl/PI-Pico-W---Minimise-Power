@@ -16,4 +16,5 @@ References:
 3) External clock - tAdafruit DS1307 Real Time Clock (RTC) Breakout Board Kit (https://uk.pi-supply.com/products/adafruit-ds1307-real-time-clock-rtc-breakout-board-kit?_pos=4&_sid=fb3e48ac4&_ss=r)
 4) External clock wake up PI -  https://github.com/bablokb/pi-wake-on-rtc
 5) https://forums.raspberrypi.com/viewtopic.php?t=206548
+6) tpl5110 - https://www.distrelec.nl/nl/tpl5110-nano-stroomtimer-sparkfun-electronics-prt-15353/p/30157553?cq_src=google_ads&cq_cmp=18200849884&cq_con=&cq_term=&cq_med=pla&cq_plac=&cq_net=x&cq_pos=&cq_plt=gp&gad_source=1&gclid=CjwKCAiAvoqsBhB9EiwA9XTWGbLc1UB6q1j-oCLuHrHA9A4DZXO_XrK0hHadt9Ac-OWBHPST0NSqWxoC7gwQAvD_BwE&gclsrc=aw.ds
 
