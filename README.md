@@ -15,4 +15,5 @@ References:
 2) Youtube video Deep sleep example - https://www.youtube.com/watch?v=05o5QOZkpwg&list=PLNR62dPSpLdvRIKLcb4CTNqBkMeQ5iDyf&index=1
 3) External clock - tAdafruit DS1307 Real Time Clock (RTC) Breakout Board Kit (https://uk.pi-supply.com/products/adafruit-ds1307-real-time-clock-rtc-breakout-board-kit?_pos=4&_sid=fb3e48ac4&_ss=r)
 4) External clock wake up PI -  https://github.com/bablokb/pi-wake-on-rtc
+5) https://forums.raspberrypi.com/viewtopic.php?t=206548
 
