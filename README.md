@@ -1,4 +1,4 @@
-# PI Pico W - Power reduction
+# PI Pico W - Minimise Power
 
  The Raspberry PI Pico W is an ideal device as an IoT sensor. It only is succesful when the battery power consumption is minimised. And in particular the Wifi component consumes most of the power. For sensors that require a daily reading, the device doesnt need to be running continuesly.
 This code is my experiment/mini project that i work on to create a device that will make the device be on absolutely lowest possible power consumption.
