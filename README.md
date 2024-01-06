@@ -19,3 +19,4 @@ References:
 6) tpl5110 - https://www.distrelec.nl/nl/tpl5110-nano-stroomtimer-sparkfun-electronics-prt-15353/p/30157553?cq_src=google_ads&cq_cmp=18200849884&cq_con=&cq_term=&cq_med=pla&cq_plac=&cq_net=x&cq_pos=&cq_plt=gp&gad_source=1&gclid=CjwKCAiAvoqsBhB9EiwA9XTWGbLc1UB6q1j-oCLuHrHA9A4DZXO_XrK0hHadt9Ac-OWBHPST0NSqWxoC7gwQAvD_BwE&gclsrc=aw.ds
 7) https://github.com/elehobica/pico_battery_op/
 8) Raspberry pi pico datasheet - https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
+9) power breaker - https://core-electronics.com.au/videos/makerverse-nano-power-timer-quickstart-guide-with-raspberry-pi-pico
