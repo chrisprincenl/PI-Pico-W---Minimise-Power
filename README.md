@@ -21,3 +21,4 @@ References:
 8) Raspberry pi pico datasheet - https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
 9) power breaker - https://core-electronics.com.au/videos/makerverse-nano-power-timer-quickstart-guide-with-raspberry-pi-pico
 10) esp power - https://www.radioshuttle.de/en/media-en/tech-infos-en/battery-powered-esp32/#:~:text=ESP32%20operation%20via%20lithium%20batteries&text=For%20example%2C%20a%20Varta%20CR123,WiFi%20or%20Bluetooth%20is%20used.
+11) https://forums.raspberrypi.com/viewtopic.php?t=337539
