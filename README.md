@@ -23,3 +23,4 @@ References:
 10) esp power - https://www.radioshuttle.de/en/media-en/tech-infos-en/battery-powered-esp32/#:~:text=ESP32%20operation%20via%20lithium%20batteries&text=For%20example%2C%20a%20Varta%20CR123,WiFi%20or%20Bluetooth%20is%20used.
 11) https://forums.raspberrypi.com/viewtopic.php?t=337539
 12) ESP module - https://www.instructables.com/Magic-MQTT-Button-for-HomeKit-Homebridge/
+13)  TheESP32 D1 Mini Board features the powerful ESP-WROOM-32 module with integrated WiFi and Bluetooth functionality (BR/EDR/BLE). Since the quiescent current of the ESP32 chip is less than 5 μA, it is particularly suitable for use with batteries or rechargeable batteries. The ESP32 D1 Mini has a similar pin layout to the conventional D1 Mini ESP8266-12F and is therefore compatible with most accessories for this pin. This mini board combines the popular shape of the D1 Mini with the high performance ESP32.
